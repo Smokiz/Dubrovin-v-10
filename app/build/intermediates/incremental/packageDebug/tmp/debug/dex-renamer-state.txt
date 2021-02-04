@@ -1,0 +1,4 @@
+#Thu Feb 04 09:13:55 NOVT 2021
+base.0=C\:\\AD2\\Dubrovinv11\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

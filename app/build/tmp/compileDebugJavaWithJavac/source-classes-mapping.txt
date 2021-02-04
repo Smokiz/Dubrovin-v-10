@@ -1,0 +1,10 @@
+com/example/dubrovin_v_14/BuildConfig.java
+ com.example.dubrovin_v_14.BuildConfig
+com/example/dubrovin_v_11/MainActivity.java
+ com.example.dubrovin_v_11.MainActivity
+ com.example.dubrovin_v_11.MainActivity$1
+ com.example.dubrovin_v_11.OnSwipeTouchListener
+ com.example.dubrovin_v_11.OnSwipeTouchListener$1
+ com.example.dubrovin_v_11.OnSwipeTouchListener$GestureListener
+com/example/dubrovin_v_11/SecondScreen.java
+ com.example.dubrovin_v_11.SecondScreen
